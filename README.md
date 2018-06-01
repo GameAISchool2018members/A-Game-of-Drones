@@ -10,5 +10,5 @@ Contents
 Executable folder contains the executable file as well as the necessary files for the game to run whereas
 Project folder contains the Unity project files
 
-Execution
-To play the game simply run GameofDronesFinal.exe under the Executable folder
+Execution and Gameplay
+To play the game simply run GameofDronesFinal.exe under the Executable folder. You can control the drone's movement with WASD keys and the drone's height with L and O keys
