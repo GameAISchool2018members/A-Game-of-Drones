@@ -6,5 +6,9 @@ A Game of Drones is a human vs AI game. During the game each player tries to col
 Implementation
 The game was developed in Unity game engine. The AI drone was trained using the unity ML-agents and more specifically with Proximal Policy Optimization (PPO) algorithm.
 
+Contents
+Executable contains the executable file as well as the necessary files for the game to run
+Project contains the Unity project files
+
 Execution
-To play the game simply run xxxx.exe
+To play the game simply run GameofDronesFinal.exe under the Executable folder
