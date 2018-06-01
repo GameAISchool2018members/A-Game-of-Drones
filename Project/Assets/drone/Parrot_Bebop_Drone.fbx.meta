@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: 89e46c4cd63a49744b60fb700e6d440e
+timeCreated: 1527771447
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cielo
+    100002: Cilindro
+    100004: Cilindro_1
+    100006: Cilindro_2
+    100008: Cilindro_3
+    100010: Cilindro_4
+    100012: Cilindro_5
+    100014: Cubo
+    100016: Cubo_1
+    100018: Cubo_1_2
+    100020: Cubo_1_3
+    100022: Cubo_1_4
+    100024: Cubo_1_5
+    100026: Cubo_1_6
+    100028: Cubo_1_7
+    100030: Cubo_1_8
+    100032: Cubo_2
+    100034: Cubo_2_2
+    100036: Cubo_2_3
+    100038: Cubo_3
+    100040: Cubo_3_2
+    100042: Cubo_3_3
+    100044: Cubo_4
+    100046: Cubo_5
+    100048: Cubo_6
+    100050: Cubo_7
+    100052: Cubo_8
+    100054: "C\xE1mara"
+    100056: "C\xE1psula"
+    100058: "C\xE1psula_2"
+    100060: "Extrusi\xF3n"
+    100062: Luz
+    100064: Luz_1
+    100066: Luz_2
+    100068: Matriz
+    100070: Matriz_2
+    100072: //RootNode
+    100074: Parrot_Bebop_Drone
+    100076: "Simetr\xEDa"
+    100078: "Simetr\xEDa_2"
+    100080: "Simetr\xEDa_2_2"
+    400000: Cielo
+    400002: Cilindro
+    400004: Cilindro_1
+    400006: Cilindro_2
+    400008: Cilindro_3
+    400010: Cilindro_4
+    400012: Cilindro_5
+    400014: Cubo
+    400016: Cubo_1
+    400018: Cubo_1_2
+    400020: Cubo_1_3
+    400022: Cubo_1_4
+    400024: Cubo_1_5
+    400026: Cubo_1_6
+    400028: Cubo_1_7
+    400030: Cubo_1_8
+    400032: Cubo_2
+    400034: Cubo_2_2
+    400036: Cubo_2_3
+    400038: Cubo_3
+    400040: Cubo_3_2
+    400042: Cubo_3_3
+    400044: Cubo_4
+    400046: Cubo_5
+    400048: Cubo_6
+    400050: Cubo_7
+    400052: Cubo_8
+    400054: "C\xE1mara"
+    400056: "C\xE1psula"
+    400058: "C\xE1psula_2"
+    400060: "Extrusi\xF3n"
+    400062: Luz
+    400064: Luz_1
+    400066: Luz_2
+    400068: Matriz
+    400070: Matriz_2
+    400072: //RootNode
+    400074: Parrot_Bebop_Drone
+    400076: "Simetr\xEDa"
+    400078: "Simetr\xEDa_2"
+    400080: "Simetr\xEDa_2_2"
+    2000000: "C\xE1mara"
+    2100000: No Name
+    2300000: Cilindro
+    2300002: Cilindro_1
+    2300004: Cilindro_2
+    2300006: Cilindro_3
+    2300008: Cilindro_4
+    2300010: Cilindro_5
+    2300012: Cubo
+    2300014: Cubo_1
+    2300016: Cubo_1_2
+    2300018: Cubo_1_4
+    2300020: Cubo_1_5
+    2300022: Cubo_1_6
+    2300024: Cubo_1_8
+    2300026: Cubo_2
+    2300028: Cubo_2_2
+    2300030: Cubo_2_3
+    2300032: Cubo_3
+    2300034: Cubo_3_2
+    2300036: Cubo_3_3
+    2300038: Cubo_4
+    2300040: Cubo_5
+    2300042: Cubo_6
+    2300044: Cubo_7
+    2300046: Cubo_8
+    2300048: "C\xE1psula"
+    2300050: "C\xE1psula_2"
+    2300052: "Extrusi\xF3n"
+    3300000: Cilindro
+    3300002: Cilindro_1
+    3300004: Cilindro_2
+    3300006: Cilindro_3
+    3300008: Cilindro_4
+    3300010: Cilindro_5
+    3300012: Cubo
+    3300014: Cubo_1
+    3300016: Cubo_1_2
+    3300018: Cubo_1_4
+    3300020: Cubo_1_5
+    3300022: Cubo_1_6
+    3300024: Cubo_1_8
+    3300026: Cubo_2
+    3300028: Cubo_2_2
+    3300030: Cubo_2_3
+    3300032: Cubo_3
+    3300034: Cubo_3_2
+    3300036: Cubo_3_3
+    3300038: Cubo_4
+    3300040: Cubo_5
+    3300042: Cubo_6
+    3300044: Cubo_7
+    3300046: Cubo_8
+    3300048: "C\xE1psula"
+    3300050: "C\xE1psula_2"
+    3300052: "Extrusi\xF3n"
+    4300000: "Extrusi\xF3n"
+    4300002: Cubo
+    4300004: Cubo_2
+    4300006: Cubo_1
+    4300008: Cilindro
+    4300010: Cubo_3
+    4300012: "C\xE1psula"
+    4300014: Cubo_4
+    4300016: Cubo_1_2
+    4300018: Cilindro_2
+    4300020: Cubo_3_2
+    4300022: Cubo_2_2
+    4300024: Cubo_1_4
+    4300026: Cubo_5
+    4300028: Cubo_1_5
+    4300030: Cilindro_3
+    4300032: Cubo_6
+    4300034: "C\xE1psula_2"
+    4300036: Cubo_7
+    4300038: Cubo_1_6
+    4300040: Cilindro_4
+    4300042: Cubo_3_3
+    4300044: Cubo_2_3
+    4300046: Cubo_1_8
+    4300048: Cubo_8
+    4300050: Cilindro_5
+    4300052: Cilindro_1
+    9500000: //RootNode
+    10800000: Luz
+    10800002: Luz_1
+    10800004: Luz_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
